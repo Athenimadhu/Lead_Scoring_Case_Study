@@ -24,9 +24,9 @@ A dataset with around 9000 data points includes attributes like Lead Source, Tot
 The lead scoring model identifies potential leads for improved conversion rates. The lead score helps prioritize sales efforts towards Hot Leads. The solution includes comprehensive documentation, analysis, and recommendations for future model adjustments.
 
 ## Repository Structure
- `Lead Scoring Assignment.ipynb`: Jupyter notebook containing data analysis, model building, and evaluation.
-  `Lead Scoring Assignment Q&A.pdf`: Word document with detailed solutions to case study questions.
- `Lead Scoring Assignment Presentation.pdf`: Concise presentation summarizing analysis, insights, and recommendations.
- `Lead Scoring Assignment Summary.pdf`: A summary report outlining the assignment process and key learnings.
+-`Lead Scoring Assignment.ipynb`: Jupyter notebook containing data analysis, model building, and evaluation.
+-`Lead Scoring Assignment Q&A.pdf`: Word document with detailed solutions to case study questions.
+-`Lead Scoring Assignment Presentation.pdf`: Concise presentation summarizing analysis, insights, and recommendations.
+-`Lead Scoring Assignment Summary.pdf`: A summary report outlining the assignment process and key learnings.
 
 For more details, refer to the data dictionary provided in the 'Leads.csv', 'Leads Data Dictionary.xlsx',  folder and address categorical variable 'Select' levels. The repository comprehensively addresses the lead scoring case study, enabling X Education to enhance lead conversion rates.
