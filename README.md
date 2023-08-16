@@ -29,6 +29,6 @@ The lead scoring model identifies potential leads for improved conversion rates.
 - `Lead Scoring Assignment.ipynb`: Jupyter notebook containing  data analysis, model building, and evaluation.
 - `Lead Scoring Assignment Q&A.pdf`: Detailed solutions to case study questions in a PDF document.
 - `Lead Scoring Assignment Presentation.pdf`: Concise presentation summarizing analysis, insights, and recommendations.
-- `Lead Scoring Assignment Summary.pdf`: A 500-word summary report outlining the assignment process and key learnings.
+- `Lead Scoring Assignment Summary.pdf`: A summary report outlining the assignment process and key learnings.
 
 For more details, refer to the data dictionary provided in the 'Leads.csv', 'Leads Data Dictionary.xlsx',  folder and address categorical variable 'Select' levels. The repository comprehensively addresses the lead scoring case study, enabling X Education to enhance lead conversion rates.
